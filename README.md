@@ -1,0 +1,9 @@
+- 👋 olá, me chamo Gabriel
+- 👀 Estou interessado em trabalhar como back-end ...
+- 🌱 atualmente comecei o curso de ads e estou estudando conceitos basicos como desenvolvimento web ...
+- 📫 Para conseguir entrar em contato comigo as formas seriam via WhatsApp +55 84 991272490 ou via instagram @gabriel_gg2...
+
+<!---
+GGOD2K/GGOD2K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
